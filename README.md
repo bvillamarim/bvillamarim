@@ -1,11 +1,11 @@
 ## Hello, world! I'm Bianca ✨
 
 
-<a href="https://github.com/bvillamarim">
 <div>
+  <a href="https://github.com/bvillamarim">
   <img height="180em" src="https://github-readme-stats-bvillamarim.vercel.app/api?username=bvillamarim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-bvillamarim.vercel.app/api/top-langs/?username=bvillamarim&layout=compact&langs_count=16&theme=dracula"/>
-<div></a>
+  <img height="180em" src="https://github-readme-stats-bvillamarim.vercel.app/api/top-langs/?username=bvillamarim&layout=compact&langs_count=16&theme=dracula"/></a>
+<div>
 
 ### Connect with me:
   <a href = "mailto: biancavillamarim@gmail.com"><img width="70px" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
