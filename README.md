@@ -1,4 +1,4 @@
-## Hello, world! I'm Bianca :eight_pointed_black_star:
+## Hello, world! I'm Bianca :wave:
 
 
 <div>
