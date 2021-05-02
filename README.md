@@ -1,4 +1,4 @@
-## Hello, world! I'm Bianca ✨
+## Hello, world! I'm Bianca :wave:
 
 
 <div>
