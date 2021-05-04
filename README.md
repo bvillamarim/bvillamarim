@@ -8,8 +8,8 @@
 <div>
 
 ### Connect with me:
-  <a href = "mailto: biancavillamarim@gmail.com"><img width="70px" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/biancavillamarim" target="_blank"><img width="90px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: biancavillamarim@gmail.com"><img height="26px" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/biancavillamarim" target="_blank"><img height="26px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br />
 
 ### Languages and tools:
